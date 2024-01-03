@@ -5,6 +5,8 @@
 <br/>
 [![Spotify](https://spotify-song-git-main-koaste.vercel.app/api/spotify)](https://open.spotify.com/user/21wklktjfhee6gbywizzwriiy)
 
+<br/>
+
 <div align="left"> 
   <a href="mailto:sejoon1999@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
