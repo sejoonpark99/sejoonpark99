@@ -3,7 +3,7 @@
 <h3 align="left">Welcome! Stay cozy while you read through this.</h3>
 
 <br/>
-[![Spotify](https://USER_NAME.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+[![Spotify](https://koaste.vercel.app/api/spotify)](https://open.spotify.com/user/koaste)
 
 <div align="left"> 
   <a href="mailto:sejoon1999@gmail.com">
