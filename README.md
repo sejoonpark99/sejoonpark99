@@ -1,13 +1,10 @@
 ![IllyLean](https://github.com/sejoonpark99/sejoonpark99/assets/94677150/46366dca-ff4c-4def-94f6-e7a9156060d4)
 
-<h3 align="left">Hi! I'm SeJoon, a Korean and Canadian.</h3>
+<h3 align="left">Welcome! Stay cozy while you read through this.</h3>
 
 <br/>
-
-<div align="center">
- </div>
  
-<div align="center"> 
+<div align="left"> 
   <a href="mailto:sejoon1999@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
