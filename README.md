@@ -30,10 +30,10 @@
 </div>
 
 <br/>
-
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sejoonpark99/sejoonpark99/output/github-contribution-grid-snake.svg" />
   
 <hr/>
+
+![snake gif](https://github.com/sejoonpark99/sejoonpark99/blob/output/github-contribution-grid-snake.gif)
 
 <div align="center">
   <br>
