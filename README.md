@@ -1,6 +1,6 @@
 ![IllyLean](https://github.com/sejoonpark99/sejoonpark99/assets/94677150/46366dca-ff4c-4def-94f6-e7a9156060d4)
 
-<h3 align="center">Hi! I'm SeJoon, a Korean and Canadian.</h3>
+<h3 align="left">Hi! I'm SeJoon, a Korean and Canadian.</h3>
 
 <br/>
 
@@ -34,7 +34,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/koaste/koaste/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sejoonpark99/sejoonpark99/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
