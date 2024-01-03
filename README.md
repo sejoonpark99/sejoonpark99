@@ -1,6 +1,6 @@
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width=100% alt="animated hello">
+![IllyLean](https://github.com/sejoonpark99/sejoonpark99/assets/94677150/46366dca-ff4c-4def-94f6-e7a9156060d4)
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center">Hi! I'm SeJoon, a Korean and Canadian.</h3>
 
 <br/>
 
