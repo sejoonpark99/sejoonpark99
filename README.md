@@ -3,7 +3,6 @@
 <h3 align="left">Welcome! Stay cozy while you read through this.</h3>
 
 <br/>
-[![Spotify](https://spotify-song-git-main-koaste.vercel.app/api/spotify)](https://open.spotify.com/user/21wklktjfhee6gbywizzwriiy)
 
 <br/>
 
