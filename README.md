@@ -4,7 +4,7 @@
 
 <br/>
 
-![Spotify](https://spotify-song-git-main-koaste.vercel.app/api/spotify)(https://open.spotify.com/user/21wklktjfhee6gbywizzwriiy)
+![Spotify](https://spotify-song-git-main-koaste.vercel.app/api/spotify)
 <br/>
 
 
