@@ -16,8 +16,6 @@ Stay curious and consistent! Trying things out - I want to create more unique pr
 * I indulge in furniture creation (for fun)! Huge interest in interior design & architecture -> great interior == great productivity
 * The Roman Empire, do I need to explain myself?
 
-<br/>
-
 <h3 align="left">Connect with me:</h3>
 <div align="left"> 
   <a href="mailto:sejoon1999@gmail.com">
@@ -33,9 +31,9 @@ Stay curious and consistent! Trying things out - I want to create more unique pr
 
  <hr/>
  
-<h2 align="center">My Languages and tools</h2>
+<h2 align="Left">Languages and tools</h2>
 <br/>
-<div align="center">
+<div align="Left">
     <img src="https://skillicons.dev/icons?i=aws,angular,cs,py,react,typescript,dotnet,firebase,mongodb,c,nextjs,mysql,flask" /><br>
     <img src="https://skillicons.dev/icons?i=react,js,bootstrap,mui,html,css,github,figma,tailwind,git,r,redis,postgres,java" />
 </div>
@@ -43,7 +41,7 @@ Stay curious and consistent! Trying things out - I want to create more unique pr
 <br/>
   
 <hr/>
-<h2 align="center">Got a ton of projects in mind</h2>
+<h2 align="Left">Watch the Snake Get Bigger!</h2>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sejoonpark99/sejoonpark99/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sejoonpark99/sejoonpark99/output/github-contribution-grid-snake.svg">
