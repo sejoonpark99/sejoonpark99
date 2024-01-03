@@ -40,7 +40,7 @@ Stay curious and consistent! Trying things out - I want to create more unique pr
 <br/>
   
 <hr/>
-<h2 align="Left">Watch the Snake Get Bigger!</h2>
+<h2 align="Left">Watch the Snake Get Bigger! (Please refresh if the snake isn't moving) </h2>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sejoonpark99/sejoonpark99/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sejoonpark99/sejoonpark99/output/github-contribution-grid-snake.svg">
