@@ -22,7 +22,7 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">My Languages and tools</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=aws,angular,cs,py,react,typescript,dotnet,firebase,mongodb,c,nextjs,mysql,flask" /><br>
@@ -34,7 +34,6 @@
 
 <div align="center">
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sejoonpark99/sejoonpark99/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
