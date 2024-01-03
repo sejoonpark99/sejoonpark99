@@ -1,6 +1,6 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+SeJoon!;" />
-</h1>
+## Animated Hello [🔝](#--gifs-for-readme--)
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello">
 
 <h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
 
