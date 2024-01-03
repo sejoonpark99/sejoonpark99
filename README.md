@@ -33,8 +33,8 @@ Stay curious and consistent! Trying things out - I want to create more unique pr
 <h2 align="Left">Languages and tools</h2>
 <br/>
 <div align="Left">
-    <img src="https://skillicons.dev/icons?i=aws,angular,cs,py,react,typescript,dotnet,firebase,mongodb,c,nextjs,mysql,flask" /><br>
-    <img src="https://skillicons.dev/icons?i=react,js,bootstrap,mui,html,css,github,figma,tailwind,git,r,redis,postgres,java" />
+    <img src="https://skillicons.dev/icons?i=aws,angular,cs,py,react,typescript,dotnet,firebase,mongodb,c,nextjs,mysql,flask,nginx" /><br>
+    <img src="https://skillicons.dev/icons?i=react,js,bootstrap,go,html,css,github,figma,tailwind,git,r,redis,postgres,java" />
 </div>
 
 <br/>
