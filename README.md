@@ -1,13 +1,24 @@
 ![IllyLean](https://github.com/sejoonpark99/sejoonpark99/assets/94677150/46366dca-ff4c-4def-94f6-e7a9156060d4)
 
-<h3 align="left">Welcome! Stay cozy while you read through this.</h3>
-
+<h3 align="left">Happy New Years!</h3>
+My name is SeJoon [Say-June]
+============================================================================================
 <br/>
 
 ![Spotify](https://spotify-song-git-main-koaste.vercel.app/api/spotify)
 <br/>
 
+Stay curious and consistent! Trying things out - I want to create more unique projects for 2024. A few things about me:
 
+* I'm a University of Waterloo, Engineering Graduate
+* I'm interested in how AI can change a developers approach to existing technologies (websockets)
+* In progress to obtain my AWS (Associate) certification
+* I indulge in furniture creation (for fun)! Huge interest in interior design & architecture -> great interior == great productivity
+* The Roman Empire, do I need to explain myself?
+
+<br/>
+
+<h3 align="left">Connect with me:</h3>
 <div align="left"> 
   <a href="mailto:sejoon1999@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -32,21 +43,30 @@
 <br/>
   
 <hr/>
-
+<h2 align="center">Got a ton of projects in mind</h2>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sejoonpark99/sejoonpark99/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sejoonpark99/sejoonpark99/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sejoonpark99/sejoonpark99/output/github-contribution-grid-snake.svg">
 </picture>
 
-<div align="center">
-  <br>
-  
-  <br/><br/><br/>
-</div>
+<br/>
+
+Some projects I plan to finish this year:
+
+* Websocket Enhancer -> Detection through AI or "smart approach"
+* Architectural Reviewer -> Structural integrity engineering drawing validator
+* Smart AI Mod (Total War Rome) -> Implement over 20 strategy tactics
+* Google Chrome Extension -> TBD!
 
 <hr/>
-<br/><br/>
+A few links for interior design if you're curious:
 
+* https://www.wayfair.com/furniture/pdp/trule-suede-armless-bean-bag-chair-lounger-w008391102.html
+* https://www.artemide.net/en/product-category/?collection=design&by=collection
+* https://www.hermanmiller.com/products/seating/benches/nelson-platform-bench/
+* https://spearsfurnishing.com/collections/furniture
 <hr/>
 
+If you got to the end, reach out! Let's connect with a coffee :D
+<hr/>
