@@ -1,9 +1,8 @@
 ![IllyLean](https://github.com/sejoonpark99/sejoonpark99/assets/94677150/46366dca-ff4c-4def-94f6-e7a9156060d4)
 
-<h3 align="left">Happy New Years!</h3>
-My name is SeJoon [Say-June]
-============================================================================================
-<br/>
+<h1 align="left">Happy New Years! 새해 복 많이받으세요!</h1>
+<h3>I'm SeJoon [Say-June]. Korean Canadian! I'm currently a Software Engineer at ComputerTalk.</h3>
+<hr/>
 
 ![Spotify](https://spotify-song-git-main-koaste.vercel.app/api/spotify)
 <br/>
@@ -50,7 +49,7 @@ Stay curious and consistent! Trying things out - I want to create more unique pr
 
 <br/>
 
-Some projects I plan to finish this year:
+Some projects I plan to start and finish this year:
 
 * Websocket Enhancer -> Detection through AI or "smart approach"
 * Architectural Reviewer -> Structural integrity engineering drawing validator
@@ -66,5 +65,10 @@ A few links for interior design if you're curious:
 * https://spearsfurnishing.com/collections/furniture
 <hr/>
 
-If you got to the end, reach out! Let's connect with a coffee :D
+Thanks for reading through! If you got to the end, reach out! I don't bite!
 <hr/>
+
+![ending](https://github.com/sejoonpark99/sejoonpark99/assets/94677150/85537366-94a8-4830-abdd-feb3aadac974)
+
+
+
