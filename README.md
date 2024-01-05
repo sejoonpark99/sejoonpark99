@@ -49,7 +49,7 @@ Stay curious and consistent! Trying things out - I want to create more unique pr
 
 <br/>
 
-Some projects I plan to start and finish this year:
+Some projects for the year:
 
 * Websocket Enhancer -> Detection through AI or "smart approach"
 * Architectural Reviewer -> Structural integrity engineering drawing validator
