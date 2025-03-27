@@ -13,11 +13,10 @@ Stay curious and consistent! Trying things out - I want to create more unique pr
 * I'm interested in how AI can change a developers approach to existing technologies (websockets)
 * In progress to obtain my AWS (Associate) certification
 * I indulge in furniture creation (for fun)! Huge interest in interior design & architecture -> great interior == great productivity
-* The Roman Empire, do I need to explain myself?
 
 <h3 align="left">Connect with me::</h3>
 <div align="left"> 
-  <a href="mailto:sejoon1999@gmail.com">
+  <a href="mailto:park.julius@outlook.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/sejoon-park" target="_blank">
