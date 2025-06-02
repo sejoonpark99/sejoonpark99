@@ -7,7 +7,7 @@
 ![Spotify](https://spotify-song-git-main-koaste.vercel.app/api/spotify)
 <br/>
 
-Stay curious and consistent! Trying things out - I want to create more unique projects for 2024. A few things about me:
+Stay curious and consistent! A few things about me:
 
 * I'm a University of Waterloo, Engineering Graduate
 * I'm interested in how AI can change a developers approach to existing technologies (websockets)
