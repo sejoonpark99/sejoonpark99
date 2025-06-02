@@ -1,7 +1,7 @@
 ![IllyLean](https://github.com/sejoonpark99/sejoonpark99/assets/94677150/46366dca-ff4c-4def-94f6-e7a9156060d4)
 
-<h1 align="left">Happy New Years!!</h1>
-<h3>I'm SeJoon [Say-June]. Korean Canadian! I'm currently a Software Engineer at ComputerTalk</h3>
+<h1 align="left">Welcome!</h1>
+<h3>I'm Julius, or SeJoon [Say-June]. Korean Canadian! I'm currently a Software Engineer at ComputerTalk</h3>
 <hr/>
 
 ![Spotify](https://spotify-song-git-main-koaste.vercel.app/api/spotify)
