@@ -36,7 +36,5 @@ Current: @CharacterQuilt
     <img src="https://skillicons.dev/icons?i=react,js,bootstrap,go,html,css,github,figma,tailwind,git,r,redis,postgres,java" />
 </div>
 
-![ending](https://github.com/sejoonpark99/sejoonpark99/assets/94677150/85537366-94a8-4830-abdd-feb3aadac974)
-
 
 
